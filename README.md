@@ -18,11 +18,16 @@ ggggf
 -Introduction
 **Image**  
 
-![github logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6WviecMysi2PSJVP415iWSYud9Su6ytu3oA&usqp=CAU)
+![github logo](https://staticg.sportskeeda.com/wp-content/uploads/2016/08/pardeep-narwal-1470067171-800.jpg)
 **Link**  
 
 !gitrb(https://mail.google.com/)
 |name|college|branch|
 |-----|-------|------|
 |abc|VRSEC|CSE|
-|xyz|VRSEC|IT|
+|xyz|VRSEC|IT|  
+
+~~strikedtext~~  
+
+- [x] checkbox
+- [ ] one

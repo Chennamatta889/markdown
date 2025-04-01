@@ -1,0 +1,14 @@
+inputSet:
+  name: Build_markdown_1743502688554-push-trigger-input-set
+  identifier: Build_markdown_1743502688554pushtriggerinputset
+  orgIdentifier: default
+  projectIdentifier: Harness_project
+  pipeline:
+    identifier: Build_markdown_1743502688554
+    properties:
+      ci:
+        codebase:
+          build:
+            type: branch
+            spec:
+              branch: <+trigger.branch>

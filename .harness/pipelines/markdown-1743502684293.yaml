@@ -6,9 +6,10 @@ pipeline:
   properties:
     ci:
       codebase:
-        build: <+input>
-        connectorRef: account.GitConnector
+        connectorRef: org.GithubConnection
         repoName: markdown
+        build: <+input>
+        sparseCheckout: []
   stages:
     - stage:
         identifier: build
